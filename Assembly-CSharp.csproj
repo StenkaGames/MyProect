@@ -63,6 +63,7 @@
     <Compile Include="Assets\Warped Caves\Screpts\characterController.cs" />
     <Compile Include="Assets\Warped Caves\Screpts\newcam.cs" />
     <Compile Include="Assets\Warped Caves\Screpts\NewLevel.cs" />
+    <Compile Include="Assets\Warped Caves\Screpts\NewLevelTwo.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/marco/OneDrive/Рабочий стол/Platformer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

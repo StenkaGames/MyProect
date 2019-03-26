@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class NewLevel : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
